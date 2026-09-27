@@ -1,0 +1,20 @@
+help
+echo hello "from the CLI task"
+led
+led on
+led toggle
+led toggle
+sum 10 20 30
+reboot
+set gain 7
+set nope 1
+get gain
+get
+lef off
+led blink
+lexd off
+uptime
+tasks
+heap
+exit
+echo this line is never executed

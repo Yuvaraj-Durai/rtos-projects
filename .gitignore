@@ -1,0 +1,14 @@
+# CMake build trees
+build/
+build-*/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+Testing/
+# Local FreeRTOS kernel checkout (use -DFREERTOS_KERNEL_PATH=...)
+FreeRTOS-Kernel/
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
